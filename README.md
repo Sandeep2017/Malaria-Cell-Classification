@@ -65,3 +65,5 @@ __Hence we can clearly see from the three graphs that the model architecture usi
 
 ### Conclusion:
 __Hence we can conlcude that Using transfer learning we  extract many unwanted features in our model which stands out to be irrelevant while classifying the real data.Here, Our functional model with a custom generator has succesfully performed the task better than the model that we have created usng transfer learning__
+
+>keep Coding:-)
